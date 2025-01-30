@@ -1,0 +1,15 @@
+/Users/nick/D/MyProject/Shop/Shop/bin/Debug/net7.0/Shop
+/Users/nick/D/MyProject/Shop/Shop/bin/Debug/net7.0/Shop.deps.json
+/Users/nick/D/MyProject/Shop/Shop/bin/Debug/net7.0/Shop.runtimeconfig.json
+/Users/nick/D/MyProject/Shop/Shop/bin/Debug/net7.0/Shop.dll
+/Users/nick/D/MyProject/Shop/Shop/bin/Debug/net7.0/Shop.pdb
+/Users/nick/D/MyProject/Shop/Shop/obj/Debug/net7.0/Shop.csproj.AssemblyReference.cache
+/Users/nick/D/MyProject/Shop/Shop/obj/Debug/net7.0/Shop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nick/D/MyProject/Shop/Shop/obj/Debug/net7.0/Shop.AssemblyInfoInputs.cache
+/Users/nick/D/MyProject/Shop/Shop/obj/Debug/net7.0/Shop.AssemblyInfo.cs
+/Users/nick/D/MyProject/Shop/Shop/obj/Debug/net7.0/Shop.csproj.CoreCompileInputs.cache
+/Users/nick/D/MyProject/Shop/Shop/obj/Debug/net7.0/Shop.dll
+/Users/nick/D/MyProject/Shop/Shop/obj/Debug/net7.0/refint/Shop.dll
+/Users/nick/D/MyProject/Shop/Shop/obj/Debug/net7.0/Shop.pdb
+/Users/nick/D/MyProject/Shop/Shop/obj/Debug/net7.0/Shop.genruntimeconfig.cache
+/Users/nick/D/MyProject/Shop/Shop/obj/Debug/net7.0/ref/Shop.dll
