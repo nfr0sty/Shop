@@ -6,15 +6,16 @@ public abstract class Person
     {
         Name = name;
         Money = money;
+        Products = new List<Product>();
     }
     
     public string Name { get; private set; }
     public int Money { get; private set; }
-
-    protected void ChangeMoney(int amount)
-    {
-        Money += amount;
-    }
-
+    public List<Product> Products { get; private set; }
+    
+    protected void IncreaseMoney(int amount) => Money += amount;
+    
+    protected void DecreaseMoney(int amount) => Money -= amount;
+    
     public abstract void ShowProducts();
 }
