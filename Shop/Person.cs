@@ -11,11 +11,17 @@ public abstract class Person
     
     public string Name { get; private set; }
     public int Money { get; private set; }
-    public List<Product> Products { get; private set; }
+    protected List<Product> Products { get; private set; }
     
-    protected void IncreaseMoney(int amount) => Money += amount;
-    
-    protected void DecreaseMoney(int amount) => Money -= amount;
-    
+    protected void IncreaseMoney(int amount)
+    {
+        Money += amount;
+    }
+
+    protected void DecreaseMoney(int amount)
+    {
+        Money -= amount;
+    }
+
     public abstract void ShowProducts();
 }
